@@ -1,7 +1,27 @@
 {
   "RSpec": {
     "coverage": {
+      "/mnt/c/Users/harry/projects/process-review-2/spec/app_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/mnt/c/Users/harry/projects/process-review-2/lib/app.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
     },
-    "timestamp": 1582883979
+    "timestamp": 1582885422
   }
 }
