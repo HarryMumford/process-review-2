@@ -1,5 +1,5 @@
 class App
     def self.filter(arr, lower, upper)
-        [2]
+        arr
     end
 end
